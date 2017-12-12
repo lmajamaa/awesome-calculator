@@ -1,2 +1,2 @@
 # awesome-calculator
-React-Native calculator
+Example calculator using react-native

@@ -1,0 +1,4 @@
+export const AppSecrets = {
+  clientID: 'INSERT-CLIENT-ID-HERE',
+  url: 'INSERT-BACKEND-URL-HERE'
+};
