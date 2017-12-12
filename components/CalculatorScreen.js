@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
   column: {
     flex: 1,
     flexDirection: 'column',
-    backgroundColor: '#fffcf1'
+    backgroundColor: '#fff'
   },
   historyRow: {
     flex: 2,
