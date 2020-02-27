@@ -9,7 +9,7 @@
     "eslint-plugin-react-hooks": "^2.4.0",
     "eslint-plugin-react-native-globals": "^0.1.2",
     "jest-expo": "36.0.1",
-    "react-test-renderer": "16.12.0"
+    "react-test-renderer": "16.13.0"
   },
   "main": "./node_modules/expo/AppEntry.js",
   "scripts": {
